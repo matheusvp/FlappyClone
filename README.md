@@ -1,2 +1,2 @@
 # FlappyClone
-A flappy bird clone make with libgdx.
+A flappy bird clone made with libgdx.
